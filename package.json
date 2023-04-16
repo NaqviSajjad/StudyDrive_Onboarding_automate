@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^12.9.0",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "cypress-v10-preserve-cookie": "^1.2.1"
+  }
+}
